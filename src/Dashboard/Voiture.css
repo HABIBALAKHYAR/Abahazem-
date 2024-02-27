@@ -1,0 +1,7 @@
+.backgr2{
+    background-image: linear-gradient(rgba(83, 77, 77, 0.5), rgba(135, 126, 126, 0.5)), url("b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding-top: 50px;
+  }

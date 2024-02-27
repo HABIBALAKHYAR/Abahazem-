@@ -1,0 +1,10 @@
+.divreservation{
+    
+        background-image: linear-gradient(rgba(83, 77, 77, 0.506), rgba(135, 126, 126, 0.546)), url("b.jpg");
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+    
+    
+    }

@@ -1,0 +1,18 @@
+.backgrou4{
+    background-image: linear-gradient(rgba(83, 77, 77, 0.5), rgba(135, 126, 126, 0.5)), url("b.jpg");
+    background-image: linear-gradient(rgba(83, 77, 77, 0.506), rgba(135, 126, 126, 0.546)), url("b.jpg");
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+  }
+  
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4rem;
+    font-style: oblique;
+    letter-spacing: 2px;
+  color: #fff;
+ 
+}

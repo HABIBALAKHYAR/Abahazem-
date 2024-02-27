@@ -1,0 +1,57 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+.backend{
+    background-image: linear-gradient(rgba(83, 77, 77, 0.506), rgba(135, 126, 126, 0.546)), url("b.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+.div2{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4rem;
+    font-style: oblique;
+    letter-spacing: 2px;
+  color: #fff;
+ 
+}
+  p{
+    
+    color: #fff;
+    margin: 50px auto;
+    width: 50%; 
+    text-align: center; 
+    padding: 15px; 
+    border: 0px solid black; 
+    border-radius: 5px;
+    font-style: oblique;
+    box-shadow:10px 20px 20px rgb(124, 121, 121)  }
+
+.divbtn{
+    display: flex;
+    justify-content: center;
+
+}
+button{
+    background-color: rgb(243, 241, 241);
+    padding: 15px;
+   
+    width: 300px;
+    border-radius: 6px;
+    border: none;
+
+}
+button:focus{
+color: azure;
+background-color: rgb(82, 78, 189);
+
+
+}
